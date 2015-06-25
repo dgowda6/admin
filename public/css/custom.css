@@ -1,0 +1,17 @@
+.panel-login{
+    border-color: #FF6D00 !important;
+    background-color: #282A2D !important;
+}
+
+.panel-login-heading{
+    color: #FFFFFF !important;
+    background-color: #FF6D00 !important;
+    border-color: #282A2D !important;
+}
+
+.message {
+color: #FF0000;
+font-weight: bold;
+text-align: center;
+width: 100%;
+}
